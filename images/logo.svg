@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="24" viewBox="0 0 124 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="124" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g transform="translate(-100 -50)">
+      <text id="markting" transform="translate(100 69)" fill="#f7e9de" font-size="20" font-family="Butler" letter-spacing="0.1em"><tspan x="0" y="0">MARKTING</tspan></text>
+    </g>
+  </g>
+</svg>
